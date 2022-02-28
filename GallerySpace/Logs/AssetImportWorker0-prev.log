@@ -1,0 +1,308 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.17f1 (a4537701e4ab) revision 10769271'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1526; Version 2009; 64bit' Language: 'en' Physical Memory: 12223 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Bobby/Documents/GitHub/GIMMStudio/GallerySpace/GallerySpace
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63728
+Successfully changed project path to: C:/Users/Bobby/Documents/GitHub/GIMMStudio/GallerySpace/GallerySpace
+C:/Users/Bobby/Documents/GitHub/GIMMStudio/GallerySpace/GallerySpace
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Bobby/Documents/GitHub/GIMMStudio/GallerySpace/GallerySpace/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0x1287)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   26.21.14.3107
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56744
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002941 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 40.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.410 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1410ms)
+		BeginReloadAssembly (67ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (540ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (219ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (198ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (40ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (102ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006182 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.446 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1447ms)
+		BeginReloadAssembly (177ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (1182ms)
+			LoadAssemblies (115ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (377ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (511ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (123ms)
+				ProcessInitializeOnLoadAttributes (362ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1757 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.1 MB.
+System memory in use after: 81.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2194.
+Total: 3.641800 ms (FindLiveObjects: 0.279600 ms CreateObjectMapping: 0.111700 ms MarkObjects: 3.083000 ms  DeleteObjects: 0.165500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Bobby G
+  artifactKey: Guid(7314f2a30bd8cbe47aa56b446aa6a3b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G using Guid(7314f2a30bd8cbe47aa56b446aa6a3b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41d7d9eb9a58749132d018828579a34d') in 0.014301 seconds 
+  Import took 0.021524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.657484 seconds.
+  path: Assets/Bobby G/FBX
+  artifactKey: Guid(a3d22f2caef02884ea2118c9c2c6e5bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX using Guid(a3d22f2caef02884ea2118c9c2c6e5bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39638ca75b40b7f4a7a4bb1875ac7fe2') in 0.009810 seconds 
+  Import took 0.016243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.251235 seconds.
+  path: Assets/Bobby G/FBX/Lantern1.fbx
+  artifactKey: Guid(c0a371263449b334fb8412a185aac871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern1.fbx using Guid(c0a371263449b334fb8412a185aac871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f0589a93039ce74f2931c8fab1a746') in 0.343592 seconds 
+  Import took 0.350885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.592454 seconds.
+  path: Assets/Bobby G/FBX/Lantern1.fbx
+  artifactKey: Guid(c0a371263449b334fb8412a185aac871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern1.fbx using Guid(c0a371263449b334fb8412a185aac871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be8354fd5d989a8c0dd2a37fabfde22d') in 0.111576 seconds 
+  Import took 0.116129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.182117 seconds.
+  path: Assets/Bobby G/FBX/Lantern1.fbx
+  artifactKey: Guid(c0a371263449b334fb8412a185aac871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern1.fbx using Guid(c0a371263449b334fb8412a185aac871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '999b5bb6b67f824b942a5be180297a0e') in 0.060013 seconds 
+  Import took 0.064023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.310578 seconds.
+  path: Assets/Bobby G/FBX/Lantern2.fbx
+  artifactKey: Guid(cf76fa4ac06c0024ebd7f4f4e791bc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern2.fbx using Guid(cf76fa4ac06c0024ebd7f4f4e791bc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c8e32ec2dce9fa0f025b127aec72c07') in 0.055568 seconds 
+  Import took 0.060842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.278269 seconds.
+  path: Assets/Bobby G/FBX/Lantern2.fbx
+  artifactKey: Guid(cf76fa4ac06c0024ebd7f4f4e791bc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern2.fbx using Guid(cf76fa4ac06c0024ebd7f4f4e791bc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7319b2a448fcc3c83c6cee0ea63d48bf') in 0.147660 seconds 
+  Import took 0.153008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.856185 seconds.
+  path: Assets/Bobby G/FBX/Lantern2.fbx
+  artifactKey: Guid(cf76fa4ac06c0024ebd7f4f4e791bc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern2.fbx using Guid(cf76fa4ac06c0024ebd7f4f4e791bc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbecb020af7ec82f620aa6717e07c76d') in 0.035330 seconds 
+  Import took 0.039712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.826464 seconds.
+  path: Assets/Bobby G/FBX/Lantern3.fbx
+  artifactKey: Guid(c792c71bc48b3ad4aa9cd819a89d0a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern3.fbx using Guid(c792c71bc48b3ad4aa9cd819a89d0a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8f4ccc4ca1611f0ef5c3777174237a') in 0.394295 seconds 
+  Import took 0.400104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.877377 seconds.
+  path: Assets/Bobby G/FBX/Lantern3.fbx
+  artifactKey: Guid(c792c71bc48b3ad4aa9cd819a89d0a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern3.fbx using Guid(c792c71bc48b3ad4aa9cd819a89d0a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd07a55139d4e569002db566b9441118') in 0.061807 seconds 
+  Import took 0.065862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.413296 seconds.
+  path: Assets/Bobby G/Prefab
+  artifactKey: Guid(37711f5350724a542a24eae6bad9d4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/Prefab using Guid(37711f5350724a542a24eae6bad9d4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28228b86417678c8b1744bcf4198aa26') in 0.007416 seconds 
+  Import took 0.011576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.013704 seconds.
+  path: Assets/Bobby G/FBX/Lantern1.fbx
+  artifactKey: Guid(c0a371263449b334fb8412a185aac871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern1.fbx using Guid(c0a371263449b334fb8412a185aac871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc0d1939919f8878d152735a3a2b4152') in 0.082041 seconds 
+  Import took 0.087530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.523624 seconds.
+  path: Assets/Bobby G/FBX/Lantern1.fbx
+  artifactKey: Guid(c0a371263449b334fb8412a185aac871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern1.fbx using Guid(c0a371263449b334fb8412a185aac871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6d98aea10824fddde3bda8577d61ccd') in 0.041141 seconds 
+  Import took 0.045129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.590362 seconds.
+  path: Assets/Bobby G/FBX/Lantern2.fbx
+  artifactKey: Guid(cf76fa4ac06c0024ebd7f4f4e791bc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern2.fbx using Guid(cf76fa4ac06c0024ebd7f4f4e791bc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187a8c3faf0aafdafa3012dcbb9c4ee4') in 0.031302 seconds 
+  Import took 0.037138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.954874 seconds.
+  path: Assets/Bobby G/FBX/Lantern3.fbx
+  artifactKey: Guid(c792c71bc48b3ad4aa9cd819a89d0a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern3.fbx using Guid(c792c71bc48b3ad4aa9cd819a89d0a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd91020c6b1594325aafa5a43e67535') in 0.079853 seconds 
+  Import took 0.085636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.232081 seconds.
+  path: Assets/Bobby G/FBX/Lantern3.fbx
+  artifactKey: Guid(c792c71bc48b3ad4aa9cd819a89d0a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern3.fbx using Guid(c792c71bc48b3ad4aa9cd819a89d0a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1d3dc2e7799dadf86c829df4c342a12') in 0.077618 seconds 
+  Import took 0.082781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.669614 seconds.
+  path: Assets/Bobby G/FBX/Lantern2.fbx
+  artifactKey: Guid(cf76fa4ac06c0024ebd7f4f4e791bc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern2.fbx using Guid(cf76fa4ac06c0024ebd7f4f4e791bc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0dc2e5709f2dafb73d975dbaa166fd1') in 0.031384 seconds 
+  Import took 0.037336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.471475 seconds.
+  path: Assets/Bobby G/FBX/Lantern1.fbx
+  artifactKey: Guid(c0a371263449b334fb8412a185aac871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/FBX/Lantern1.fbx using Guid(c0a371263449b334fb8412a185aac871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a911e3b847a6777dd753159bee9b9e') in 0.041025 seconds 
+  Import took 0.047986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.618536 seconds.
+  path: Assets/Bobby G/Prefab/Lantern3.prefab
+  artifactKey: Guid(46c3afb5d9fd24e48aa2fd0b14e6332f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/Prefab/Lantern3.prefab using Guid(46c3afb5d9fd24e48aa2fd0b14e6332f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32fa1755e518d72b56cb49e4cd78116') in 0.083877 seconds 
+  Import took 0.089013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.113235 seconds.
+  path: Assets/Bobby G/Prefab/Lantern2.prefab
+  artifactKey: Guid(4948d1e56b7027643b667d572d2b60d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/Prefab/Lantern2.prefab using Guid(4948d1e56b7027643b667d572d2b60d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437d6a0175c2099b0ac635e49483b4ef') in 0.022956 seconds 
+  Import took 0.030490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.192644 seconds.
+  path: Assets/Bobby G/Prefab/Lantern1.prefab
+  artifactKey: Guid(1e20288142ea41d4793ed82e777f3340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/Prefab/Lantern1.prefab using Guid(1e20288142ea41d4793ed82e777f3340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea4d7d5f21eee1350e28316c466482d1') in 0.071678 seconds 
+  Import took 0.075521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001927 seconds.
+  path: Assets/Bobby G/Prefab/Lantern1.prefab
+  artifactKey: Guid(1e20288142ea41d4793ed82e777f3340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bobby G/Prefab/Lantern1.prefab using Guid(1e20288142ea41d4793ed82e777f3340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea4d7d5f21eee1350e28316c466482d1') in 0.024194 seconds 
+  Import took 0.029404 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
