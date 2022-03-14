@@ -11,10 +11,9 @@ public class InteractionHandler : MonoBehaviour
     [SerializeField] float interactionRange;
     void Start()
     {
+
     }
 
-
-    // Update is called once per frame
     void Update()
     {
         RaycastInteractor();
@@ -29,7 +28,7 @@ public class InteractionHandler : MonoBehaviour
         {
             var button = hit.transform.gameObject;
             //e.enabled = true;
-            if (Input.GetKeyDown(KeyCode.E))
+            if (Input.GetKeyDown(KeyCode.E) || Input.GetMouseButtonDown(0))
             {
                 switch (button.name)
                 {
