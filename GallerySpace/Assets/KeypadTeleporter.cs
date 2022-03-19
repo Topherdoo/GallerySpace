@@ -30,13 +30,13 @@ public class KeypadTeleporter : MonoBehaviour
     {
         switch (code)
         {
-            case ("1"):
+            case ("0"):
                 if (keypadCollider.PlayerToBeTeleported)
                 {
                     keypadCollider.PlayerToBeTeleported.transform.position = waypointTransforms[0].transform.position;
                 }
                 break;
-            case ("2"):
+            case ("1"):
                 if (keypadCollider.PlayerToBeTeleported)
                 {
                     keypadCollider.PlayerToBeTeleported.transform.position = waypointTransforms[1].transform.position;

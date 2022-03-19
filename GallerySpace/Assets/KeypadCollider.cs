@@ -4,17 +4,8 @@ using UnityEngine;
 
 public class KeypadCollider : MonoBehaviour
 {
-    // Start is called before the first frame update
-    public GameObject PlayerToBeTeleported;
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-    }
+    public GameObject PlayerToBeTeleported;
     private void OnTriggerEnter(Collider collision)
     {
         if (collision.gameObject.tag == "Player")
