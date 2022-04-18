@@ -22,7 +22,6 @@ public class InteractionHandler : MonoBehaviour
     {
         var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
-        Physics.Raycast(ray, out hit, 100);
         //e.enabled = false;
         if (Physics.Raycast(ray, out hit, interactionRange, layerMask))
         {
